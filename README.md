@@ -11,7 +11,7 @@ Sou graduado em Física Bacharelado pela Universidade Estadual do Ceará (UECE).
 
 _____
 
-### Skills: <h3>
+### Skills <h3>
  - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza, interpretação dos dados e Machine Learning. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn.
 - **Web Scraping:** BeautifulSoup e Selenium
 - **SQL:** Análise, construção e manipulação de database
@@ -21,7 +21,7 @@ _____
   
  _____
   
-  ### Projetos: <h3> 
+  ### Projetos <h3> 
   
   ### [Análise Exploratória](https://github.com/Cassiophysics/Analise-Exploratoria-Airbnb-RJ) <h3>
   
