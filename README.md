@@ -47,7 +47,12 @@ _____
   
   _____
   
-  
+  ### Contatos <h3>
+ 
+<a href="[https://www.linkedin.com/in/seu-username-aqui/](https://www.linkedin.com/in/c%C3%A1ssio-costa-08598a20b/)">
+
+  <img src="https://user-images.githubusercontent.com/108491443/214388836-298ed9d2-a5bd-469e-b1fa-54a0261c80bb.png" width="50" height="50" align="left"> 
+</a>
 
 
 
