@@ -11,7 +11,7 @@ Sou graduado em Física Bacharelado pela Universidade Estadual do Ceará (UECE).
 
 _____
 
-### Skills <h3>
+## Skills
  - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza, interpretação dos dados e Machine Learning. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn.
 - **Web Scraping:** BeautifulSoup e Selenium
 - **SQL:** Análise, construção e manipulação de database
@@ -21,33 +21,39 @@ _____
   
  _____
   
-  ### Projetos <h3> 
+  ## Projetos
   
-  ### [Análise Exploratória](https://github.com/Cassiophysics/Analise-Exploratoria-Airbnb-RJ) <h3>
+  ## [Análise Exploratória](https://github.com/Cassiophysics/Analise-Exploratoria-Airbnb-RJ)
   
-  Neste projeto foi realizada uma Análise exploratória de dados para geração de insights sobre diversos tipos de acomodações ofertadas por meio do Airbnb na cidade do Rio de Janeiro no período de 2019 a 2020, realizando limpeza, tratamento, análise e visualização dos dados.
+  Neste projeto foi realizada uma Análise exploratória de dados para geração de insights sobre diversos tipos de acomodações ofertadas por meio do Airbnb na cidade do Rio de Janeiro no período de 2019 a 2020. Realizando limpeza, tratamento, análise e visualização dos dados.
   
   _____
   
-  ### [Regressão Linear](https://github.com/Cassiophysics/ML_regressao_predicao) <h3>
+  ## [Regressão Linear](https://github.com/Cassiophysics/ML_regressao_predicao)
   
   Desenvolvimento de Modelo de Machine Learning de aprendizado supervisionado do tipo regressão de modo a se prever o preço de passagens aéreas. Utilizando Análise Exploratória, Pré-processamento, Multicolinearidade - Variance Inflation Factor (VIF), Seleção de Variáveis, Modelos Baseline com Cross Validation, Pré-processamento para os Dados de Teste, Comparação dos Melhores Modelos Avaliados por Cross Validation, Otimização dos Modelos - Ajuste de Hiperparâmetros com BayesSearchCV.
   
   _____
   
-### [Regressão logística](https://github.com/Cassiophysics/ML_classificacao_credito_risco) <h3>
+## [Regressão logística](https://github.com/Cassiophysics/ML_classificacao_credito_risco)
   
   Criação de Modelo de Machine Learning de aprendizado supervisionado capaz de classificar quando um empréstimo foi bom e quando foi ruim. Empregando Análise Exploratória, Pré-processamento com Pipeline, Tratamento do Desbalanceamento das Classes com Diferentes Pesos e com SMOTE, Otimização de Hiperparâmetros com GridSearchCV e RandomizedSearchCV.
+ 
+____
+
+## [Agrupamento](https://github.com/Cassiophysics/ML_clustering_credit_card)
+
+Construção de um modelo de machine learning de aprendizado não supervisionado capaz  de agrupar titulares de cartões de crédito de modo a gerar segmentações relevantes para as estratégias de campanhas de marketing. Aplicando Análise Exploratória, Pré-processamento, PCA, Modelagem: K-Means, DBSCAN e Agrupamento Hierárquico Aglomerativo, além da interpretação dos clusters.
   
   _____
   
-### [Web Scraping](https://github.com/Cassiophysics/webscraping_beautifulsoup_selenium) <h3>
+## [Web Scraping](https://github.com/Cassiophysics/webscraping_beautifulsoup_selenium)
   
   Práticas de Web Scraping com Python utilizando BeautifulSoup e Selenium.
   
   _____
   
-  ### Contatos <h3>
+  ## Contatos
  
 
 <img src="https://user-images.githubusercontent.com/108491443/214460598-146f3e63-7850-4c51-8112-e1817b75c4d0.png" width="30" height="30" align="left">LinkedIn: [LinkedIn](https://www.linkedin.com/in/c%C3%A1ssio-costa-08598a20b/) 
@@ -57,5 +63,7 @@ _____
 <img src="https://user-images.githubusercontent.com/108491443/214463474-6d4551fb-1691-472d-acd9-fe699c8de4de.png" width="30" height="30" align="left">Kaggle: [Kaggle](https://www.kaggle.com/datacassio)
  
 <img src="https://user-images.githubusercontent.com/108491443/214461467-38a95929-d4c6-4074-bf71-86727f0d8c13.png" width="30" height="30" align="left">Telefone: (85) 99997-9684
+
+___
  
 
