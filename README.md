@@ -49,10 +49,13 @@ _____
   
   ### Contatos <h3>
  
-<a href="[https://www.linkedin.com/in/seu-username-aqui/](https://www.linkedin.com/in/c%C3%A1ssio-costa-08598a20b/)">
 
-  <img src="https://user-images.githubusercontent.com/108491443/214388836-298ed9d2-a5bd-469e-b1fa-54a0261c80bb.png" width="50" height="50" align="left"> 
-</a>
-
-
+<img src="https://user-images.githubusercontent.com/108491443/214460598-146f3e63-7850-4c51-8112-e1817b75c4d0.png" width="30" height="30" align="left">LinkedIn: [LinkedIn](https://www.linkedin.com/in/c%C3%A1ssio-costa-08598a20b/) 
+ 
+<img src="https://user-images.githubusercontent.com/108491443/214460746-41728013-0a52-445a-a91a-5ec83749c1bf.png" width="30" height="30" align="left">Email: cassio.costa1@hotmail.com
+ 
+<img src="https://user-images.githubusercontent.com/108491443/214463474-6d4551fb-1691-472d-acd9-fe699c8de4de.png" width="30" height="30" align="left">Kaggle: [Kaggle](https://www.kaggle.com/datacassio)
+ 
+<img src="https://user-images.githubusercontent.com/108491443/214461467-38a95929-d4c6-4074-bf71-86727f0d8c13.png" width="30" height="30" align="left">Telefone: (85) 99997-9684
+ 
 
