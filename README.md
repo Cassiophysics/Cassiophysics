@@ -35,7 +35,7 @@ _____
   
   _____
   
-## [Regressão logística](https://github.com/Cassiophysics/ML_classificacao_credito_risco)
+## [Regressão Logística](https://github.com/Cassiophysics/ML_classificacao_credito_risco)
   
   Criação de Modelo de Machine Learning de aprendizado supervisionado capaz de classificar quando um empréstimo foi bom e quando foi ruim. Empregando Análise Exploratória, Pré-processamento com Pipeline, Tratamento do Desbalanceamento das Classes com Diferentes Pesos e com SMOTE, Otimização de Hiperparâmetros com GridSearchCV e RandomizedSearchCV.
  
