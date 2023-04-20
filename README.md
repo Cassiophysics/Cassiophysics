@@ -47,7 +47,7 @@ Construção de um modelo de machine learning de aprendizado não supervisionado
 
 ____
 
-## [Séries temporais](https://github.com/Cassiophysics/Previsao_Serie_Temporal)
+## [Séries Temporais](https://github.com/Cassiophysics/Previsao_Serie_Temporal)
 
 Séries temporais para a previsão da produção de energia elétrica utilizando os modelos ARIMA e XGBoost. Aplicando-se análise exploratória, pré processamento, modelagem e avaliação final.
   
