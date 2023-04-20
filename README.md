@@ -44,6 +44,12 @@ ____
 ## [Agrupamento](https://github.com/Cassiophysics/ML_clustering_credit_card)
 
 Construção de um modelo de machine learning de aprendizado não supervisionado capaz  de agrupar titulares de cartões de crédito de modo a gerar segmentações relevantes para as estratégias de campanhas de marketing. Aplicando Análise Exploratória, Pré-processamento, PCA, Modelagem: K-Means, DBSCAN e Agrupamento Hierárquico Aglomerativo, além da interpretação dos clusters.
+
+____
+
+## [Séries temporais](https://github.com/Cassiophysics/Previsao_Serie_Temporal)
+
+Séries temporais para a previsão da produção de energia elétrica utilizando os modelos ARIMA e XGBoost. Aplicando-se análise exploratória, pré processamento, modelagem e avaliação final.
   
   _____
   
