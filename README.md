@@ -3,15 +3,17 @@
 
 
 
-# Portfólio de Projetos - Data Science/Machine Learning
+# 📚 Portfólio de Projetos - Data Science/Machine Learning
 
 Olá! Meu nome é Cássio Costa e este é meu portfólio de Data Science/Machine Learning!
 
-Sou graduado em Física Bacharelado pela Universidade Estadual do Ceará (UECE). A formação na área de exatas proporcionou-me desenvolver capacidade analítica na qual está facilitando a transição para ciência de dados. Isto, combinado ao conhecimento teórico e prático, adquiridos de forma autodidata em linguagens de programação, mais especificamente em Python, foram cruciais para desenvolver habilidades com dados. Conhecimento, este, obtido através de livros, cursos, vídeos, artigos e sites voltados a programação e a Data Science.
+🎓 Sou bacharel em Física pela Universidade Estadual do Ceará (Uece), cuja formação me proporcionou desenvolver capacidade analítica, habilidades e bases sólidas que facilitaram a minha transição para a carreira de cientista de dados.
+
+Com a bagagem de conhecimentos adquiridos na área de dados posso ajudar as empresas a tomar decisões mais embasadas, otimizar processos, reduzir custos, identificar oportunidades de negócios e responder perguntas triviais sempre fundamentadas em dados e no método científico.
 
 _____
 
-## Skills
+## 🛠 Skills
  - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza, interpretação dos dados e Machine Learning. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn.
 - **Web Scraping:** BeautifulSoup e Selenium
 - **SQL:** Análise, construção e manipulação de database
@@ -21,7 +23,7 @@ _____
   
  _____
   
-  ## Projetos
+  ## 📊 Projetos
   
   ## [Análise Exploratória](https://github.com/Cassiophysics/Analise-Exploratoria-Airbnb-RJ)
   
@@ -59,7 +61,7 @@ Séries temporais para a previsão da produção de energia elétrica utilizando
   
   _____
   
-  ## Contatos
+  ## 📞 Contatos
  
 
 <img src="https://user-images.githubusercontent.com/108491443/214460598-146f3e63-7850-4c51-8112-e1817b75c4d0.png" width="30" height="30" align="left">LinkedIn: [LinkedIn](https://www.linkedin.com/in/c%C3%A1ssio-costa-08598a20b/) 
