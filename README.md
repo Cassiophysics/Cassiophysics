@@ -52,6 +52,12 @@ ____
 ## [Séries Temporais](https://github.com/Cassiophysics/Previsao_Serie_Temporal)
 
 Séries temporais para a previsão da produção de energia elétrica utilizando os modelos ARIMA e XGBoost. Aplicando-se análise exploratória, pré processamento, modelagem e avaliação final.
+
+____
+
+## [Dashboards - Power BI](https://github.com/Cassiophysics/Dashboards_PowerBI/tree/main)
+
+Projeto de Dashboards criadas com Power BI e Figma.
   
   _____
   
