@@ -19,7 +19,7 @@ _____
 - **SQL:** Análise, construção e manipulação de database
 - **Banco de dados:** PostgreSQL
 - **Versionamento de Projetos:** Git e Github
-- **Data visualization:** Organização visual da informação com Python e Power BI
+- **Data visualization:** Organização visual da informação com Python, Power BI e Tableau.
   
  _____
   
