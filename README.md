@@ -1,5 +1,5 @@
 
-![WhatsApp Image 2022-10-18 at 14 50 43 (2)](https://user-images.githubusercontent.com/108491443/212473082-ee4498c4-3a67-4725-a82b-8b58d42e3ac0.jpeg)
+![Frame 3](https://github.com/Cassiophysics/Cassiophysics/assets/108491443/9b56692e-cc8a-4b78-848a-6b231a058329)
 
 
 
