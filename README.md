@@ -1,5 +1,5 @@
 
-![Frame 3](https://github.com/Cassiophysics/Cassiophysics/assets/108491443/9b56692e-cc8a-4b78-848a-6b231a058329)
+![Frame 5](https://github.com/Cassiophysics/Cassiophysics/assets/108491443/23bdf519-2149-4e18-9b3d-5eb33406076f)
 
 
 
