@@ -43,7 +43,7 @@ _____
  
 ____
 
-## [Agrupamento](https://github.com/Cassiophysics/ML_clustering_credit_card)
+## [Clusterização](https://github.com/Cassiophysics/ML_clustering_credit_card)
 
 Construção de um modelo de machine learning de aprendizado não supervisionado capaz  de agrupar titulares de cartões de crédito de modo a gerar segmentações relevantes para as estratégias de campanhas de marketing. Aplicando Análise Exploratória, Pré-processamento, PCA, Modelagem: K-Means, DBSCAN e Agrupamento Hierárquico Aglomerativo, além da interpretação dos clusters.
 
