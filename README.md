@@ -14,11 +14,24 @@ Com a bagagem de conhecimentos adquiridos na área de dados posso ajudar as empr
 _____
 
 ## 🛠 Skills
- - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza, interpretação dos dados e Machine Learning. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn.
-- **Web Scraping:** BeautifulSoup e Selenium
-- **SQL:** Análise, construção e manipulação de database
-- **Banco de dados:** PostgreSQL
-- **Versionamento de Projetos:** Git e Github
+ - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza e interpretação dos dados. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn;
+ - **Machine Learning** Aprendizado supervisionado (regressão linear e
+logística), aprendizado não supervisionado (clusterização), séries temporais
+(modelos estatísticos e de machine learning), divisão de dados, pipeline de
+pré-processamento, dimensionamento de dados (normalização e
+padronização), codificação de variáveis categóricas (One-Hot Encoding,
+Ordinal Encoding, Label Encoding, Target Encoding), validação cruzada,
+criação de recursos, seleção de características, otimização de
+hiperparâmetros (Grid Search, Random Search, Bayesian Optimization),
+redução de dimensionalidade (PCA), avaliação de modelos com as métricas
+adequadas (R², MAE, MSE, RMSE, MAPE, SMAPE, accuracy, precision,
+recall, f1-score, confusion matrix, método "cotovelo", índice de Silhouette,
+índice de Calinski-Harabasz, índice de Davies-Bouldin) e interpretabilidade de
+modelos;
+- **Web Scraping:** BeautifulSoup e Selenium;
+- **SQL:** Análise, construção e manipulação de database;
+- **Banco de dados:** PostgreSQL;
+- **Versionamento de Projetos:** Git e Github;
 - **Data visualization:** Organização visual da informação com Python, Power BI e Tableau.
   
  _____
@@ -51,7 +64,7 @@ ____
 
 ## [Séries Temporais](https://github.com/Cassiophysics/Previsao_Serie_Temporal)
 
-Séries temporais para a previsão da produção de energia elétrica utilizando os modelos ARIMA e XGBoost. Aplicando-se análise exploratória, pré processamento, modelagem e avaliação final.
+Séries temporais para a previsão da produção de energia elétrica e gás utilizando os modelos ARIMA e XGBoost. Aplicando-se análise exploratória, pré processamento, modelagem e avaliação final.
 
 ____
 
