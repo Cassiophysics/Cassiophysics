@@ -7,9 +7,9 @@
 
 Olá! Meu nome é Cássio Costa e este é meu portfólio de Data Science/Machine Learning!
 
-🎓 Sou bacharel em Física pela Universidade Estadual do Ceará (Uece), cuja formação me proporcionou desenvolver capacidade analítica, habilidades e bases sólidas que facilitaram a minha transição para a carreira de cientista de dados.
+🎓 Sou bacharel em Física pela Universidade Estadual do Ceará (UECE), o que me proporcionou desenvolver habilidades analíticas e adquirir uma base sólida que facilitou minha transição para a carreira de cientista de dados.
 
-Com a bagagem de conhecimentos adquiridos na área de dados posso ajudar as empresas a tomar decisões mais embasadas, otimizar processos, reduzir custos, identificar oportunidades de negócios e responder perguntas triviais sempre fundamentadas em dados e no método científico.
+Com minha experiência na área de dados, estou apto a auxiliar as empresas a tomarem decisões embasadas, otimizar processos, reduzir custos, identificar oportunidades de negócio e responder perguntas fundamentadas em dados e no método científico.
 
 _____
 
