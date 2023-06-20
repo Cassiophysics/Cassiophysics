@@ -15,8 +15,7 @@ _____
 
 ## 🛠 Skills
  - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza e interpretação dos dados. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn;
- - **Machine Learning** Aprendizado supervisionado (regressão linear e
-logística), aprendizado não supervisionado (clusterização), séries temporais
+ - **Machine Learning** Aprendizado supervisionado (regressão e classificação), aprendizado não supervisionado (clusterização), séries temporais
 (modelos estatísticos e de machine learning), divisão de dados, pipeline de
 pré-processamento, dimensionamento de dados (normalização e
 padronização), codificação de variáveis categóricas (One-Hot Encoding,
@@ -44,13 +43,13 @@ modelos;
   
   _____
   
-  ## [Regressão Linear](https://github.com/Cassiophysics/ML_regressao_predicao)
+  ## [Regressão](https://github.com/Cassiophysics/ML_regressao_predicao)
   
   Desenvolvimento de Modelo de Machine Learning de aprendizado supervisionado do tipo regressão de modo a se prever o preço de passagens aéreas. Utilizando Análise Exploratória, Pré-processamento, Multicolinearidade - Variance Inflation Factor (VIF), Seleção de Variáveis, Modelos Baseline com Cross Validation, Pré-processamento para os Dados de Teste, Comparação dos Melhores Modelos Avaliados por Cross Validation, Otimização dos Modelos - Ajuste de Hiperparâmetros com BayesSearchCV.
   
   _____
   
-## [Regressão Logística](https://github.com/Cassiophysics/ML_classificacao_credito_risco)
+## [Classificação](https://github.com/Cassiophysics/ML_classificacao_credito_risco)
   
   Criação de Modelo de Machine Learning de aprendizado supervisionado capaz de classificar quando um empréstimo foi bom e quando foi ruim. Empregando Análise Exploratória, Pré-processamento com Pipeline, Tratamento do Desbalanceamento das Classes com Diferentes Pesos e com SMOTE, Otimização de Hiperparâmetros com GridSearchCV e RandomizedSearchCV.
  
