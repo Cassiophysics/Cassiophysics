@@ -29,7 +29,7 @@ recall, f1-score, confusion matrix, método "cotovelo", índice de Silhouette,
 modelos;
 - **Web Scraping:** BeautifulSoup e Selenium;
 - **SQL:** Análise, construção e manipulação de database;
-- **Banco de dados:** PostgreSQL e SQLite;
+- **Banco de dados:** PostgreSQL, SQLite e MySQL;
 - **Versionamento de Projetos:** Git e Github;
 - **Data visualization:** Organização visual da informação com Python, Power BI e Tableau.
   
