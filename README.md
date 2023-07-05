@@ -14,7 +14,7 @@ Com minha experiência na área de dados, estou apto a auxiliar as empresas a to
 _____
 
 ## 🛠 Skills
- - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza e interpretação dos dados. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium e scikit-learn;
+ - **Python:** Desenvolvimento, modelagem, análise exploratória, limpeza e interpretação dos dados. Bibliotecas: Pandas, NumPy, Statistics, Matplotlib, Seaborn, Plotly, Folium, Streamlit, Flask e scikit-learn;
  - **Machine Learning** Aprendizado supervisionado (regressão e classificação), aprendizado não supervisionado (clusterização), séries temporais
 (modelos estatísticos e de machine learning), divisão de dados, pipeline de
 pré-processamento, dimensionamento de dados (normalização e
@@ -30,7 +30,9 @@ modelos;
 - **Web Scraping:** BeautifulSoup e Selenium;
 - **SQL:** Análise, construção e manipulação de database;
 - **Banco de dados:** PostgreSQL, SQLite e MySQL;
+- **Estatística:** Descritiva, Diagnóstica, Preditiva, Prescritiva e Inferencial;
 - **Versionamento de Projetos:** Git e Github;
+- **Virtualização:** Experiência básica em containers Docker e Docker Hub;
 - **Data visualization:** Organização visual da informação com Python, Power BI e Tableau.
   
  _____
